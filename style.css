@@ -1,4 +1,6 @@
 body{
+    font-family: 'Roboto', sans-serif;
+
     margin: 0;
 }
 /* start-header-are  */
@@ -169,4 +171,18 @@ span{
     color: white;
     font-weight: 600;
     font-size: 28px;
+}
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+h6{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    color: #8F8F8F;
+    padding-top: 20px;
 }
